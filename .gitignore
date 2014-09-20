@@ -15,3 +15,11 @@
 /libpeerconnection.log
 npm-debug.log
 testem.log
+
+# editors shit
+*.swp
+*.swo
+*.sublime-workspace
+*.idea
+.idea/**
+.project
